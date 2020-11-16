@@ -4,7 +4,7 @@
 
 We attempt to build a Hebrew-to-English Torah translator using a Transformer model. 
 
-Here are the python scripts for [text cleaning](textClean.py), [first set of functions](shemaFuncs.py), and [second set of functions](shemaFuncs2.py).   
+Here are the python scripts for [text cleaning](textCleaning.py), [first set of functions](shemaFuncs.py), and [second set of functions](shemaFuncs2.py).   
 Here is the python script for the [word to vector analysis](word2vec.py).  
 Here is the Jupyter Notebook for the [first text analysis](textAnalysis1.ipynb).   
 Here is the Jupyter Notebook for the [second text analysis](textAnalysis2.ipynb).  
