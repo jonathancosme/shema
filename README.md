@@ -266,7 +266,7 @@ The results are better, but not by a significant amount. This larger model takes
 
 Finally, we reduced the number of layers from 3 to 2, to see if that would give us a better fit:
 
-![m2-5](images/m2-6.png)
+![m2-5](images/m2-5.png)
 
 The fit got worse. 
 
